@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0270.jpg,xe tải,deleted,AI nhận nhầm vật thể thành xe tải (không có xe thật ở vị trí này); xóa khung sai theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,2 xe liền nhau bị gộp chung 1 khung,edited,AI gộp 2 xe cạnh nhau vào chung một khung; sửa/tách lại khung cho đúng theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,xe buýt,deleted,AI nhận nhầm vật thể thành xe buýt (không có xe thật ở vị trí này); xóa khung sai theo GUIDELINE_LABEL.md
